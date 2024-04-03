@@ -1,5 +1,5 @@
 # Apple Store
-<img src="https://developer.apple.com/news/images/og/asc-og.png" width=200 height=200>
+<img src="https://developer.apple.com/news/images/og/asc-og.png" width=400 height=200>
 
 ## *A data analysis project on Apple (App) Store using SQL*
 
