@@ -1,5 +1,5 @@
 # Apple Store
-<img src="https://console.cloud.google.com/marketplace/product/bigquery-public-datasets/google-search-trends" width=400 height=200>
+<img src="https://developer.apple.com/news/images/og/asc-og.png" width=400 height=200>
 
 ## *A data analysis project on Apple (App) Store using SQL*
 
